@@ -1,0 +1,8 @@
+{
+  "name": "brandnew324",
+  "subdomain": "nonexistent324",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.0.0"
+}
