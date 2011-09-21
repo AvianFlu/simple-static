@@ -1,6 +1,10 @@
 {
-  "name": "brandnew324",
-  "subdomain": "nonexistent324",
+  "name": "simple-static",
+  "description": "A very simple example static HTTP server.",
+  "author": "AvianFlu <charlie@charlieistheman.com>",
+  "dependencies": {
+    "http-server": "*"
+  },
   "scripts": {
     "start": "server.js"
   },
